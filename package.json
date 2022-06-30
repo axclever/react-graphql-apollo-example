@@ -1,0 +1,8 @@
+{
+  "name": "react-graphql-apollo-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:axclever/react-graphql-apollo-example.git",
+  "author": "Alex Clever <axclever@protonmail.com>",
+  "license": "MIT"
+}
